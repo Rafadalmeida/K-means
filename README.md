@@ -2,9 +2,9 @@
 
 Pós graduação em Data Science and Business Inteligence
 
-Florbela Amaral
-Pedro Fernandes
-Rafael Almeida
+Florbela Amaral,
+Pedro Fernandes,
+Rafael Almeida,
 
 Exploração de um algoritmo K-means
 
