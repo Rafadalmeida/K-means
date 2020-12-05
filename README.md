@@ -2,7 +2,7 @@
 
 Pós graduação em Data Science and Business Inteligence
 
-Florbela Amaral,
+Florbela Amaral
 Pedro Fernandes,
 Rafael Almeida,
 
